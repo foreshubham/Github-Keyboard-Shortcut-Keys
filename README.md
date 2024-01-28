@@ -173,6 +173,39 @@ If you view a code file in a repository using the Code view and click on any lin
 | Command+↓ or Ctrl+↓ (Windows/Linux) | Move a single card to the bottom of the column |
 | ↑                 | Move a single card up |
 | Command+↑ (Mac) or Ctrl+↑ (Windows/Linux) | Move a single card to the top of the column |
+## Previewing a card
+| Keyboard shortcut | Description |
+| ------------------|-------------|
+| Esc               | Close the card preview pane |
+
+## GitHub Actions
+| Keyboard shortcut | Description |
+| ------------------|-------------|
+| Command+Space (Mac) or Ctrl+Space (Windows/Linux) | In the workflow editor, get suggestions for your workflow file. |
+| G F               | Go to the workflow file |
+| Shift+T or T      | Toggle timestamps in logs |
+| Shift+F or F      | Toggle full-screen logs |
+| Esc               | Exit full-screen logs |
+
+## Notifications
+| Keyboard shortcut | Description |
+| ------------------|-------------|
+| E                 | Mark as done |
+| Shift+U           | Mark as unread |
+| Shift+I           | Mark as read |
+| Shift+M           | Unsubscribe |
+
+## Network graph
+| Keyboard shortcut | Description |
+| ------------------|-------------|
+| ← or H            | Scroll left |
+| → or L            | Scroll right |
+| ↑ or K            | Scroll up |
+| ↓ or J            | Scroll down |
+| Shift+← (Mac) or Shift+H (Windows/Linux) | Scroll all the way left |
+| Shift+→ (Mac) or Shift+L (Windows/Linux) | Scroll all the way right |
+| Shift+↑ (Mac) or Shift+K (Windows/Linux) | Scroll all the way up |
+| Shift+↓ (Mac) or Shift+J (Windows/Linux) | Scroll all the way down |
 | ←                 | Move card(s) left |
 | Command+← (Mac) or Ctrl+← (Windows/Linux) | Move card(s) to the leftmost column |
 | →                 | Move card(s) right |
