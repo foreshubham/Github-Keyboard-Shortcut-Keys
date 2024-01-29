@@ -1,7 +1,5 @@
 # Github-Keyboard-Shortcut-Keys
 
-# Keyboard Shortcuts on GitHub
-
 ## Table of Contents
 - [About keyboard shortcuts](#about-keyboard-shortcuts)
 - [Site wide shortcuts](#site-wide-shortcuts)
